@@ -1,4 +1,7 @@
-iam in master branch...
+<<<<<<< HEAD
+iam updating in main branch
+iam updating in dev branch
+>>>>>>> development
 
 iam updating the file 
 
