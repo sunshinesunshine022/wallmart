@@ -1,0 +1,7 @@
+   
+  #ignore files called .classpath and .settings
+   .classpath
+   .settings
+   #ignore folder called node_modules
+    /node_modules
+
